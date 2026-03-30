@@ -5,6 +5,8 @@ This is a personal project to explore the implementation of a **perceptron** in 
 Turing, A. M. (1950). *Computing machinery and intelligence*. *Mind*, 59(236), 433–460. [DOI link](https://doi.org/10.1093/mind/LIX.236.433)
 
 Turing suggested that a discrete classical machine cannot fully simulate a brain. This led me to think about how one of the simplest machine learning models, the **perceptron**, could be implemented in a quantum computer using Qiskit.
+> [!WARNING]
+> The file: [notes](https://github.com/szacnd/qperceptron/blob/main/notes.pdf) is a cleaned-up version of my writing (draft notes), prepared with the help of ChatGPT to give it a more "academic" tone. Each question, afirmation, equation, proposition, lemma, and corollary presented is based on my own interpretation of the references (below) and should not be treated (unless you wish to spend time examining it) as a formally validated paper. If, by any chance, you find a mistake or incorrect information, please email me—I would be very grateful for the opportunity to update my code, notes, and, of course, to learn more.
 
 ---
 
