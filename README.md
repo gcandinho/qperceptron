@@ -8,6 +8,13 @@ Turing suggested that a discrete classical machine cannot fully simulate a brain
 > [!WARNING]
 > The file: [notes](https://github.com/szacnd/qperceptron/blob/main/notes.pdf) is a cleaned-up version of my writing (draft notes), prepared with the help of ChatGPT to give it a more "academic" tone. Each question, afirmation, equation, proposition, lemma, and corollary presented is based on my own interpretation of the references (below) and should not be treated (unless you wish to spend time examining it) as a formally validated paper. If, by any chance, you find a mistake or incorrect information, please email me—I would be very grateful for the opportunity to update my code, notes, and, of course, to learn more.
 
+>[!NOTE]
+> This project emerged from a preliminary and exploratory study process, involving independent reading of the literature and personal reflection on the subject. Through this experience, I developed a strong interest in further pursuing topics at the intersection of **quantum computing**, **optimization**, and **machine learning**.
+>
+> The repository should therefore be understood as an *archival record* of this learning process. Unless explicitly stated, its contents are not intended to be continuously revised or maintained, but rather preserved as a reference point for this stage of study.
+>
+> Readers interested in these topics are strongly encouraged to consult the references listed below and to independently explore and develop their own ideas. As noted above, the accompanying notes reflect personal interpretations and have not undergone formal validation; constructive feedback is always welcome.
+
 ---
 
 ## Purpose
